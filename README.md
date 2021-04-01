@@ -7,3 +7,6 @@
 <p>This website shows both global and countrywise data about Coronavirus, i.e., Total Covid 19 Cases, Active Covid 19 cases, Covid related Deaths, Recoveries, Death Ratio, Recovery Ratio and number of people Tested for coronavirus until now. It also shows data about the various Vaccines from around the world that are under development or phased trials, as well as the vaccines that have been authorized for use by the U.S. Food and Drug Administration. The data for all of this is fetched using two different REST APIs.</p>
 <h3>APIs used in the project</h3>
 <p>The APIs used in this website are <i>Coronavirus Map</i> and <i>VACCOVID</i>, both provided by <a href='https://rapidapi.com/'>RapidAPI.</a></p>
+
+<h3>Deployment</h3>
+<p>The website is deployed on heroku. View the deployment <a href='https://covidglobaldata.herokuapp.com/'>here. </a></p>
